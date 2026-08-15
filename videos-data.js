@@ -16,13 +16,6 @@
 
 window.VIDEOS = [
   
-
-  // Copia y pega el bloque de abajo para agregar otro video:
-  // {
-  //   titulo: "Nombre de tu video",
-  //   id: "PON_AQUI_EL_ID",
-  //   descripcion: "Breve descripción.",
-  // },
   {
     titulo: "Basurero automático en Tinkercad",
     id: "7PdGYvWWaXg",
@@ -31,6 +24,11 @@ window.VIDEOS = [
   {
     titulo: "Basurero Inteligente con Arduino Proyectos Escolares",
     id: "Ci_7hrcnLvE",
+    descripcion: "",
+  },
+  {
+    titulo: "Brazo robótico con 3 servos",
+    id: "u7CNVKbSWV8",
     descripcion: "",
   },
 ];
