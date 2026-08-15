@@ -15,11 +15,7 @@
 // ============================================================================
 
 window.VIDEOS = [
-  {
-    titulo: "Video de ejemplo — reemplaza esto",
-    id: "dQw4w9WgXcQ",
-    descripcion: "Aquí puedes poner una breve descripción de qué trata el video.",
-  },
+  
 
   // Copia y pega el bloque de abajo para agregar otro video:
   // {
