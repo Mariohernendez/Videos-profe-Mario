@@ -14,7 +14,7 @@
 //
 // ============================================================================
 
-const VIDEOS = [
+window.VIDEOS = [
   {
     titulo: "Video de ejemplo — reemplaza esto",
     id: "dQw4w9WgXcQ",
