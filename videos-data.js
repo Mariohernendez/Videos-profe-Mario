@@ -27,4 +27,14 @@ window.VIDEOS = [
   //   id: "PON_AQUI_EL_ID",
   //   descripcion: "Breve descripción.",
   // },
+  {
+    titulo: "Basurero automático en Tinkercad",
+    id: "7PdGYvWWaXg",
+    descripcion: "",
+  },
+  {
+    titulo: "Basurero Inteligente con Arduino Proyectos Escolares",
+    id: "Ci_7hrcnLvE",
+    descripcion: "",
+  },
 ];
