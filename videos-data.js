@@ -31,4 +31,14 @@ window.VIDEOS = [
     id: "u7CNVKbSWV8",
     descripcion: "",
   },
+  {
+    titulo: "grúa controlado con joystick",
+    id: "mA73BqXqvGo",
+    descripcion: "",
+  },
+  {
+    titulo: "Pluma de Estacionamiento",
+    id: "ZtPD94TDoyE",
+    descripcion: "",
+  },
 ];
